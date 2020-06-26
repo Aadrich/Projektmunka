@@ -1,6 +1,6 @@
 Aki nem szeretné elolvasni a dokuemntációt, annak itt egy fontos információ:
 
-A sakk majdnem teljes egészébéne működik, viszont a leglényegesebb játékelem hiányzik belőle.
+A sakk majdnem teljes egészében működik, viszont a leglényegesebb játékelem hiányzik belőle.
 Amikor sakkot kap a királyunk a program a király mezőjét pirosra állítja jelezve, hogy sakk történt, viszont akármelyik bábuval tud lépni. Tehát a sakk helyzet NINCS!
 Sáncolási lehetőség sincsen!
 
